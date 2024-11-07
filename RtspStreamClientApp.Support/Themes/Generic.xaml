@@ -1,0 +1,12 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/RtspStreamClientApp.Support;Component/Themes/Units/MenuButton.xaml"/>
+        <ResourceDictionary Source="/RtspStreamClientApp.Support;Component/Themes/Units/MinimizeButton.xaml"/>
+        <ResourceDictionary Source="/RtspStreamClientApp.Support;Component/Themes/Units/MaximizeButton.xaml"/>
+        <ResourceDictionary Source="/RtspStreamClientApp.Support;Component/Themes/Units/CloseButton.xaml"/>
+        <ResourceDictionary Source="/RtspStreamClientApp.Support;Component/Themes/Views/DarkWindow.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "6V2AB9mKefI=",
+  "success": true,
+  "projectFilePath": "D:\\wpf_code\\VMS_Project\\VMS-Project\\RstpStreamClientApp.Forms\\RstpStreamClientApp.Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yhlee\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.122\\microsoft.xaml.behaviors.wpf.1.1.122.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\opencvsharp4\\4.10.0.20240616\\opencvsharp4.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\opencvsharp4.extensions\\4.10.0.20240616\\opencvsharp4.extensions.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20240616\\opencvsharp4.runtime.win.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\opencvsharp4.windows\\4.10.0.20240616\\opencvsharp4.windows.4.10.0.20240616.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\prism.container.abstractions\\9.0.106\\prism.container.abstractions.9.0.106.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\prism.container.unity\\9.0.106\\prism.container.unity.9.0.106.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\prism.core\\9.0.537\\prism.core.9.0.537.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\prism.events\\9.0.537\\prism.events.9.0.537.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\prism.unity\\9.0.537\\prism.unity.9.0.537.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\prism.wpf\\9.0.537\\prism.wpf.9.0.537.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\wpfautogrid\\1.4.0\\wpfautogrid.1.4.0.nupkg.sha512",
+    "C:\\Users\\yhlee\\.nuget\\packages\\wpfautogrid.core\\1.5.1\\wpfautogrid.core.1.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 'net8.0-windows7.0' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1'을(를) 사용하여 패키지 'WpfAutoGrid 1.4.0'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "WpfAutoGrid",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

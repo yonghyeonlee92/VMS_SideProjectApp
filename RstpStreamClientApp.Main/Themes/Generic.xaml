@@ -1,0 +1,12 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/RstpStreamClientApp.Main;Component/Themes/Units/ExpandButton.xaml"/>
+        <ResourceDictionary Source="/RstpStreamClientApp.Main;Component/Themes/Units/PanelTreeItem.xaml"/>
+        <ResourceDictionary Source="/RstpStreamClientApp.Main;Component/Themes/Units/PanelTreeView.xaml"/>
+        <ResourceDictionary Source="/RstpStreamClientApp.Main;Component/Themes/Views/PanelContentView.xaml"/>
+        <ResourceDictionary Source="/RstpStreamClientApp.Main;Component/Themes/Views/MainContentView.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

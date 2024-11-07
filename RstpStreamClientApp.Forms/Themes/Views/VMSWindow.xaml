@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:prism="http://prismlibrary.com/"
+                    xmlns:views="clr-namespace:RstpStreamClientApp.Forms.UI.Views"
+                    xmlns:based="clr-namespace:RtspStreamClientApp.Support.UI.Views;assembly=RtspStreamClientApp.Support">
+    
+    <Style TargetType="{x:Type views:VMSWindow}" BasedOn="{StaticResource {x:Type based:DarkWindow}}">
+        <Setter Property="Content">
+            <Setter.Value>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="4*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <ContentControl prism:RegionManager.RegionName="PanelRegion" Grid.Column="0"/>
+                    <ContentControl prism:RegionManager.RegionName="MainRegion" Grid.Column="1"/>
+                </Grid>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
